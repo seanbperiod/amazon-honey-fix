@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Fix Amazon Saved Cart Grid with Honey enabled
 // @namespace    amazon-honey-fix-MBP14
-// @version      0.1
+// @version      0.2
 // @description  Fixes saved cart grid on Amazon from going to 3 columns, 
 // @match        http*://www.amazon.com/gp/cart/*
+// @match        https://www.amazon.com/cart*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=amazon.com
 // @grant        none
 // ==/UserScript==
